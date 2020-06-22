@@ -69,4 +69,9 @@ public class MonthSubscription implements IFitnessCentre {
                 ", countOfTrainingDays=" + countOfTrainingDays +
                 '}';
     }
+
+    @Override
+    public double getPaymentAmount() {
+        return getPriceMonthSubscription();
+    }
 }

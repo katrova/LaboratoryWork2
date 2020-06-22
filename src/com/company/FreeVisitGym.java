@@ -69,4 +69,9 @@ public class FreeVisitGym implements IFitnessCentre {
                 ", countOfTrainingDays=" + countOfTrainingDays +
                 '}';
     }
+
+    @Override
+    public double getPaymentAmount() {
+        return getPriceOneActivity() * getCountOfTrainingDays();
+    }
 }

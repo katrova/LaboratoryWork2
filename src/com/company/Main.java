@@ -1,13 +1,18 @@
 package com.company;
 /**
  * @author Vasylkivska Kateryna KNTEU
- * @varsion 1.0
+ * @varsion 1.0 22.06.2020
+ *
+ * Classname Main
+ *
+ * Description: Main class
  *
  * Laboratory Work 2
  *
  * Topic: Object-oriented programming,  JavaCollectionFramework
  *
- * Choose a subject according to your number. Develop a service using all your best in OOP and Java collections.
+ * Choose a subject according to your number. Develop a service using all your best
+ * in OOP and Java collections.
  *
  * Six methods must be written like in the following example. A point for each one.
  *

@@ -1,5 +1,15 @@
 package com.company;
 
+/**
+ * @author Vasylkivska Kateryna KNTEU
+ * @varsion 1.0 22.06.2020
+ *
+ * Classname: MonthSubscription
+ *
+ * Description: Class contains information about clients who chose
+ * free visit gym
+ */
+
 public class FreeVisitGym implements IFitnessCentre {
     private String clientName;
     private String contact;             //client contact phone number
